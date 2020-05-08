@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+.modal-body ul {
+  list-style:none;
+}
+
+.modal-body li {
+  padding:5px;
+}
+
+.aspect{
+  width:100%;
+  height:50vw;;
+}
+
+div.g_canvas{
+  width:100%;
+  height:100%;
+}
+
